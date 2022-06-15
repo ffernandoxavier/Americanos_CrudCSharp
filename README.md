@@ -1,4 +1,4 @@
-# Americanos_CrudCSharp
+# Americanos - Crud
 
 Comandos para rodar o banco de dados (Mysql) (console do gerenciador de pacotes)
 
